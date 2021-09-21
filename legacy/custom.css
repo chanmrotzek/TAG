@@ -11,3 +11,7 @@ html{box-sizing:border-box}*,:after,:before{box-sizing:inherit}article,aside,det
 .icon.icon-home:before, .icon:before, .fa:before {
 content:""!important;
 }
+
+#text {
+display:none;
+}
